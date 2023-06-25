@@ -1,4 +1,4 @@
-Hi My name is Hugo Amorim
+Hi, My name is Hugo Amorim
 ============================
 
 Front-End React Developer, React Native Developer, UX, Creative Technologist
