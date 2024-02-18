@@ -6,7 +6,6 @@ Front-End React Developer, React Native Developer, UX, Creative Technologist
 
 As a versatile Full-Stack Developer with five years of experience in React, I am passionate about finding intuitive, user-focused solutions to complex problems. My strong front-end development skills and solid foundation in design allow me to approach programming creatively, ensuring the best user experience. I have a diverse skill set spanning multiple programming languages, frameworks, and UI/UX methodologies. Aspiring to work more with React Native/ and Node.js, I am always eager to expand my expertise. I thrive in challenging environments, whether learning a new programming library or tackling outdoor adventures.
 
-* 🌍  I'm based in Denver, CO
 * 🖥️  See my portfolio at [My Portfolio](http://www.hugoamorimdev.com)
 * ✉️  You can contact me at [hugo.amorim.dev24@gmail.com](mailto:hugo.amorim.dev24@gmail.com)
 * 🧠  I'm learning React Native, Next.js, TailwindCSS
