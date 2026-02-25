@@ -8,7 +8,7 @@ As a versatile Full-Stack Developer with five years of experience in React, I am
 
 * 🖥️  See my portfolio at [My Portfolio](http://www.hugoamorimdev.com)
 * ✉️  You can contact me at [hugo.amorim.dev24@gmail.com](mailto:hugo.amorim.dev24@gmail.com)
-* 🧠  I'm learning React Native, Next.js, TailwindCSS
+* 🧠  I build with React, Next.js, React Native, TypeScript
 * ⚡  Personal Interests: Outdoor Enthusiast | Hiker | Skier | Camper | Tech & Science Aficionado | Life-long Learner
 
 ### Skills
