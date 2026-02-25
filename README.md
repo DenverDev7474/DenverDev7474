@@ -9,24 +9,18 @@ My work sits at the intersection of design and engineering. Before I wrote my fi
 I believe full-stack development is about more than writing code — it's about understanding the full picture, from what a user needs to how the system delivers it. I thrive in collaborative environments where design, product, and engineering work closely together.
 
 ### 🔧 Technical Skills
-
 **Frontend:** React | Next.js | React Native | TypeScript | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Redux Toolkit
-
 **Backend:** Node.js/Express | AWS (Lambda, S3, Amplify, Cognito) | Supabase | PostgreSQL | MongoDB | REST APIs | GraphQL
-
 **Testing:** Jest | React Testing Library | Cypress | Detox
-
 **Design:** Figma | Sketch | Adobe Creative Suite (Photoshop, Illustrator, XD, InDesign) | InVision
 
 ### 🎓 Education & Certifications
-
 - **Product Management Academy** — EY (2023)
 - **User Experience Design** — General Assembly
 - **Full Stack Web Development Bootcamp** — LeWagon, Rio de Janeiro
 - **BA in Communications** — Worcester State College
 
 ### 📌 Experience Highlights
-
 - **Founder** — SimpleSeverance (2025 - Present)
 - **Staff Front-End Developer** — Empact Technologies
 - **Senior Front-End Developer** — Disaster Accountability Project
@@ -36,11 +30,9 @@ I believe full-stack development is about more than writing code — it's about 
 - **Full Stack Developer** — Brightbean Labs
 
 ### 🏞️ Personal Interests
-
 Outdoor Enthusiast | Hiker | Skier | Camper | Tech & Science Aficionado | Life-long Learner
 
 ---
-
 - 💻 See my portfolio at [hugoamorimdev.com](https://www.hugoamorimdev.com)
 - 📫 Contact me at hugo.amorim.dev24@gmail.com
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/hamorim)
